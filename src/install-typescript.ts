@@ -1,2 +1,3 @@
-let message: string = 'Hello, ts-node';
-console.log({ message });
+let message: string = 'Hello, ts-node-develop'
+console.log({message});
+
